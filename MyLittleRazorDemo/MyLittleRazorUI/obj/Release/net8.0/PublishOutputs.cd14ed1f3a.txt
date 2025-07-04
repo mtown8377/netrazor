@@ -1,0 +1,7 @@
+C:\coding\NET Razor\MyLittleRazorDemo\MyLittleRazorUI\obj\Release\net8.0\PubTmp\Out\MyLittleRazorUI.exe
+C:\coding\NET Razor\MyLittleRazorDemo\MyLittleRazorUI\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\coding\NET Razor\MyLittleRazorDemo\MyLittleRazorUI\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\coding\NET Razor\MyLittleRazorDemo\MyLittleRazorUI\obj\Release\net8.0\PubTmp\Out\MyLittleRazorUI.dll
+C:\coding\NET Razor\MyLittleRazorDemo\MyLittleRazorUI\obj\Release\net8.0\PubTmp\Out\MyLittleRazorUI.deps.json
+C:\coding\NET Razor\MyLittleRazorDemo\MyLittleRazorUI\obj\Release\net8.0\PubTmp\Out\MyLittleRazorUI.runtimeconfig.json
+C:\coding\NET Razor\MyLittleRazorDemo\MyLittleRazorUI\obj\Release\net8.0\PubTmp\Out\MyLittleRazorUI.pdb
